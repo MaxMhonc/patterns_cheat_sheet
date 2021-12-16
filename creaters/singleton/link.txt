@@ -1,0 +1,1 @@
+https://webdevblog.ru/realizaciya-shablona-singleton-v-python/
