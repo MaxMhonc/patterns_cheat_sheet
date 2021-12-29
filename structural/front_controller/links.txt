@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/front-controller-design-pattern/
+https://uk.wikipedia.org/wiki/Front_controller
+https://www.tutorialspoint.com/design_pattern/front_controller_pattern.htm
+https://www.javatpoint.com/front-controller-pattern
+http://www.w3big.com/ru/design-pattern/front-controller-pattern.html
+https://www.oracle.com/java/technologies/front-controller.html
+https://www.educative.io/edpresso/what-is-the-front-controller-design-pattern
