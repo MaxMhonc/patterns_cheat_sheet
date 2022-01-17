@@ -1,0 +1,1 @@
+https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/patterns.html
