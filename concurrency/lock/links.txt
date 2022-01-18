@@ -1,0 +1,2 @@
+https://docs.python.org/3/library/threading.html#lock-objects
+https://docs.python.org/3/library/threading.html#rlock-objects
