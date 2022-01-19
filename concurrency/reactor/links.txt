@@ -1,0 +1,4 @@
+http://design-pattern.ru/patterns/reactor.html
+https://en.wikipedia.org/wiki/Reactor_pattern
+https://en.wikipedia.org/wiki/Event_loop
+https://docs.python.org/3/library/asyncio-eventloop.html
