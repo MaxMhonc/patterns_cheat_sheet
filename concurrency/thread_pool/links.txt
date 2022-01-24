@@ -1,0 +1,2 @@
+http://zhidko.net/threadpool.html#:~:text=A%20thread%20pool%20function%20is,until%20next%20task%20is%20enqueued.
+https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_pool_of_threads.htm
